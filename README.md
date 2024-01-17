@@ -14,7 +14,10 @@ pdf reader Saas App
 - OpenAI
 - Vercel AI SDK
 
-Concepts
+## Concepts
 - Edge Runtime
-= Retrival Argumented Generation - 
+- Retrival Argumented Generation - 
 
+
+## Libraries 
+- shadcn/ui
