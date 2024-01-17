@@ -2,7 +2,7 @@
 pdf reader Saas App
 
 ## Tech Stack
- - Next,js
+ - Next.js
  - Clerk Auth
  - DrizzleORM + NeonDB
  - Stripe
@@ -13,4 +13,8 @@ pdf reader Saas App
 - Langchain
 - OpenAI
 - Vercel AI SDK
+
+Concepts
+- Edge Runtime
+= Retrival Argumented Generation - 
 
